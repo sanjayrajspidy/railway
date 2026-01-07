@@ -1,0 +1,7 @@
+Domain: Platform Usage & Station Processes
+(Use as: platform_usage_dataset.docx)
+Railway platforms serve as designated areas where passengers board and alight from trains. Platforms are usually numbered sequentially to help passengers identify their boarding locations. Information about platforms is communicated through display boards, announcements, and enquiry counters.
+Most stations provide foot overbridges or subways to enable safe movement between platforms. Passengers are advised not to cross railway tracks directly due to safety risks.
+Enquiry counters and help desks assist passengers with general station-related information. Announcement systems play a crucial role in informing passengers about train arrivals, departures, and platform changes.
+Reservation charts are usually displayed at stations before train departure to help passengers locate their coach positions. Platform edge markings indicate safe standing zones and should be observed carefully.
+These processes help manage crowd movement, ensure passenger safety, and maintain station discipline.

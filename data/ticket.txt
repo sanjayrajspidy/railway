@@ -1,0 +1,7 @@
+ Domain: Ticket Types & Travel Basics
+(Use as: ticket_types_dataset.docx)
+Railway ticket types are designed to support different travel needs of passengers. A General or Unreserved Ticket allows passengers to travel without a reserved seat and is commonly used for short-distance or daily travel. A Reserved Ticket provides a confirmed seat or berth in a specific coach and class.
+A Tatkal Ticket is intended for last-minute travel and is available for booking closer to the journey date, subject to general railway rules. A Waiting List Ticket indicates that a seat is not yet confirmed, while a RAC (Reservation Against Cancellation) ticket allows limited travel with partial seating arrangements.
+A Platform Ticket permits non-travelers to enter railway platforms for assisting passengers. A Season Ticket is issued for frequent commuters traveling regularly between two stations.
+Railway tickets also specify travel classes such as Sleeper Class, AC Class, and General Class, each offering different comfort levels. Tickets may be issued as e-tickets or counter tickets, both serving the same travel purpose.
+Passengers are required to carry valid identity proof while traveling on reserved tickets. Traveling without a valid ticket may result in penalties according to railway rules. Ticket checking is performed to ensure compliance and maintain orderly travel.
